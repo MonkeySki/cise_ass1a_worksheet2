@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "cd frontend && npm test",
+    "test": "cd frontend && npm i && npm test",
     "start": "nodemon backend/server.js"
   },
   "author": "Rebecca",
