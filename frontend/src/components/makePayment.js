@@ -57,7 +57,7 @@ export default function Payment(){
         </div>
       </form>
     </div>
-    <a href="http://localhost:5000/payments">
+    <a href="http://localhost:5000/payments" target="_blank" rel="noopener noreferrer">
         <button>View Payments</button>
       </a>
       </div>
